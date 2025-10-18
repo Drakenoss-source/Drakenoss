@@ -10,7 +10,7 @@ Soy un apasionado desarrollador Full Stack con experiencia en JavaScript y el st
 
 ### 🛠️ Habilidades técnicas
 
-- **Frontend:** React.js, Redux, HTML5, CSS3, SASS, Bootstrap, Material-UI  
+- **Frontend:** React.js, HTML5, CSS3, Bootstrap, Material-UI  
 - **Backend:** Node.js, Express.js, RESTful APIs, GraphQL  
 - **Base de datos:** MongoDB, Mongoose  
 - **Herramientas:** Git, GitHub, Webpack, Babel, Docker, JWT, OAuth  
@@ -36,8 +36,8 @@ Busco formar parte de un equipo dinámico donde pueda aportar mis conocimientos 
 
 ### 📫 ¡Conectemos!
 
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
-- [Portfolio](https://tu-portfolio.com)  
+- [LinkedIn]()  
+- [Portfolio])  
 - 📧 sebatian.2307.s.a@gmail.com  
 
 ---
